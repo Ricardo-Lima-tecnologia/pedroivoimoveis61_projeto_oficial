@@ -131,7 +131,7 @@ export default function Hero() {
           </div>
 
           <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-display font-bold text-primary-foreground leading-tight mb-4 sm:mb-6 text-balance">
-            Localizar o imóvel dos seus{" "}
+            Encontre o imóvel dos seus{" "}
             <span className="text-navy-light">sonhos</span> com segurança e{" "}
             <span className="text-navy-light">confiança</span>
           </h2>
