@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="12" fill="#1a2744"/>
+  <path d="M32 12 L54 30 L54 54 L10 54 L10 30 Z" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M32 12 L54 30" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+  <path d="M10 30 L32 12" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+  <rect x="24" y="36" width="16" height="18" rx="2" fill="#ffffff"/>
+  <rect x="20" y="28" width="24" height="10" rx="1" fill="#4a7fc1" opacity="0.5"/>
+  <text x="32" y="26" text-anchor="middle" font-family="Montserrat,sans-serif" font-weight="800" font-size="7" fill="#f0c040">PI</text>
+</svg>
