@@ -31,9 +31,8 @@ export default function VideoVSL() {
           <iframe
             src="https://www.instagram.com/reel/DUvaNq5iLsc/embed/"
             className="w-full border-0"
-            style={{ minHeight: "680px" }}
+            style={{ minHeight: "680px", overflow: "hidden" }}
             allowFullScreen
-            scrolling="no"
             allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
           />
         </div>

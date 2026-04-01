@@ -128,7 +128,7 @@ export default function LeadForm() {
                 <input
                   type="tel"
                   name="phone"
-                  placeholder="Seu WhatsApp (61) 8549-5636"
+                  placeholder="Seu WhatsApp com DDD"
                   required
                   value={formData.phone}
                   onChange={handleChange}

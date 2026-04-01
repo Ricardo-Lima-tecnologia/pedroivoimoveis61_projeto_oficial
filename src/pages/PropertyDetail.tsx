@@ -174,7 +174,7 @@ export default function PropertyDetail() {
               <p className="text-4xl font-display font-bold text-navy-dark">
                 {property.price}
               </p>
-              <p className="text-green-600 font-medium mt-2">A/C Financiamento</p>
+              <p className="text-green-600 font-medium mt-2">{property.financing}</p>
               {property.condoFee && (
                 <p className="text-muted-foreground text-sm mt-2">
                   <Building className="w-4 h-4 inline mr-1" />
