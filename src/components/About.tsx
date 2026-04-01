@@ -19,7 +19,7 @@ export default function About() {
               </div>
               <div className="absolute -bottom-6 -right-6 w-48 h-48 bg-accent/10 rounded-2xl -z-10" />
               <div className="absolute -top-6 -left-6 w-32 h-32 bg-primary/10 rounded-2xl -z-10" />
-              <div className="hidden sm:block absolute sm:-right-8 top-4 bg-card rounded-xl shadow-xl p-4 z-20 border border-border/50">
+              <div className="absolute right-2 -top-4 sm:-right-8 sm:top-4 bg-card rounded-xl shadow-xl p-4 z-20 border border-border/50">
                 <div className="flex items-center gap-3">
                   <div className="w-10 h-10 bg-green-100 rounded-full flex items-center justify-center">
                     <Users className="w-5 h-5 text-green-600" />
