@@ -15,7 +15,7 @@ export default function About() {
           <div className="relative order-2 lg:order-1">
             <div className="relative">
               <div className="relative z-10 rounded-2xl overflow-hidden shadow-2xl bg-gradient-to-br from-primary/20 to-accent/20">
-                <img src="https://019cd430-5519-76e9-adf5-785194e342b6.mochausercontent.com/WhatsApp-Image-2026-03-13-at-10.30.51.jpeg" alt="Pedro Ivo - Corretor de Imóveis em Brasília" className="w-full h-auto" />
+                <img src="/images/pedro-ivo-corretor.jpeg" alt="Pedro Ivo - Corretor de Imóveis em Brasília" className="w-full h-auto" />
               </div>
               <div className="absolute -bottom-6 -right-6 w-48 h-48 bg-accent/10 rounded-2xl -z-10" />
               <div className="absolute -top-6 -left-6 w-32 h-32 bg-primary/10 rounded-2xl -z-10" />

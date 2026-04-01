@@ -9,7 +9,7 @@ const WHATSAPP_VISIT_MESSAGE = encodeURIComponent(
   "Olá Pedro Ivo! Gostaria de agendar uma visita a um imóvel."
 );
 
-const LOGO_URL = "https://019cd430-5519-76e9-adf5-785194e342b6.mochausercontent.com/Gemini_Generated_Image_7curgq7curgq7cur.png";
+const LOGO_URL = "/images/logo.png";
 
 const navLinks = [
   { label: "Início", href: "#inicio" },
