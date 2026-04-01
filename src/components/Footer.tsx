@@ -110,9 +110,15 @@ export default function Footer() {
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4 text-primary-foreground/50 text-sm">
             <p>© {currentYear} Pedro Ivo Imóveis. Todos os direitos reservados.</p>
             <p className="flex items-center gap-2">
-              Desenvolvido com
-              <span className="text-accent">♥</span>
-              para você
+              Desenvolvido por{" "}
+              <a
+                href="https://devricardolima.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-accent hover:text-accent/80 transition-colors font-medium"
+              >
+                RicardoDev
+              </a>
             </p>
           </div>
         </div>
